@@ -1,15 +1,13 @@
-# Monte Carlo
-Monte Carlo Simulations for different applications.
-
+# Monte Carlo Simulations
 This is a numerical algorithm to solve mathematical problems by random sampling.
 
 We use this algorithm in 2 different applications:
 
-- Estimating mathematical constants ($\pi, e, \gamma, \phi, \delta_s, \sqrt2$)\
-The simulations can be found in [MonteCarloSimulations_EstimatingConstants.ipynb](MonteCarloSimulations_EstimatingConstants.ipynb)
+- Estimating mathematical constants ($\pi, e, \gamma, \sqrt2, \phi, \delta_s$)\
+The simulations can be found in [MonteCarloSimulation_EstimatingConstants.ipynb](MonteCarloSimulation_EstimatingConstants.ipynb)
 
 - Estimating stock market prices in the future\
-The simulations can be found in [MonteCarloSimulations_Stocks.ipynb](MonteCarloSimulations_Stocks.ipynb)
+The simulations can be found in [MonteCarloSimulation_Stocks.ipynb](MonteCarloSimulation_Stocks.ipynb)
 
 ## Installation
 Install by cloning the repository with
