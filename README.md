@@ -5,10 +5,11 @@ This is a numerical algorithm to solve mathematical problems by random sampling.
 
 We use this algorithm in 2 different applications:
 
-- Estimating mathematical constants ($\pi, e, \gamma, \phi, \delta_s, \sqrt2$) (See [MonteCarloSimulations_EstimatingConstants.ipynb](MonteCarloSimulations_EstimatingConstants.ipynb))
-- Estimating stock market prices in the future (See [MonteCarloSimulations_Stocks.ipynb](MonteCarloSimulations_Stocks.ipynb))
+- Estimating mathematical constants ($\pi, e, \gamma, \phi, \delta_s, \sqrt2$)\
+The simulations can be found in [MonteCarloSimulations_EstimatingConstants.ipynb](MonteCarloSimulations_EstimatingConstants.ipynb)
 
-The programming was done in Python 3.
+- Estimating stock market prices in the future\
+The simulations can be found in [MonteCarloSimulations_Stocks.ipynb](MonteCarloSimulations_Stocks.ipynb)
 
 ## Installation
 Install by cloning the repository with
