@@ -27,6 +27,7 @@ The following mathematical constants were estimated using Monte Carlo simulation
 - $\delta_s$ (Silver Ratio)
 
 The wiki page for this project in this github repository has descriptions of the methods behind the Monte Carlo simulations to estimate each of these constants, and can be found here:
+
 [https://github.com/GautamGopalKrishnan/montecarlo/wiki/Estimating-Mathematical-Constants](https://github.com/GautamGopalKrishnan/montecarlo/wiki/Estimating-Mathematical-Constants)
 
 ## Stock Indices
