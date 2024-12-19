@@ -40,7 +40,7 @@ We estimate the prices in the future for the following stock indices using Monte
 - NIFTY Next 50
 - BSE 500
 
-Historical Data for each of these indices from January, 1990 to August, 2004 is publicly available (courtesy of National Stock Exchange of India for indices owned by NSE). They are available on this github repository and have been used to estimate prices in the future.
+Historical Data for each of these indices from January, 1990 to August, 2024 is publicly available (courtesy of National Stock Exchange of India for indices owned by NSE). They are available on this github repository and have been used to estimate prices in the future.
 
 Details about the Monte Carlo implementation are available on the wiki page for this project in this github repository and can be found here:
 
